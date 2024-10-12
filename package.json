@@ -1,0 +1,11 @@
+{
+  "name": "Tapswap_Cinema",
+  "version": "1.0.0",
+  "main": "easytosay.js",
+  "scripts": {
+    "start": "node easytosay.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
