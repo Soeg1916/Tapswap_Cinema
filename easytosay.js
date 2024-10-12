@@ -3,7 +3,7 @@
 // @namespace    http://shahanpanel.link
 // @version      2.7
 // @description  Tapswap Auto Task :)
-// @author       HamedAp & lcarusD
+// @author       HamedAp & Soeg
 // @match        https://app.tapswap.club/*
 // @icon         https://www.softportal.com/en/scr/1089/icons/icon_src.png
 // @grant        GM_webRequest
