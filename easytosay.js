@@ -7,8 +7,8 @@
 // @match        https://app.tapswap.club/*
 // @icon         https://www.softportal.com/en/scr/1089/icons/icon_src.png
 // @grant        GM_webRequest
-// @downloadURL  https://raw.githubusercontent.com/HamedAp/Tapswap-Cinema/main/tampermonkey.js
-// @updateURL    https://raw.githubusercontent.com/HamedAp/Tapswap-Cinema/main/tampermonkey.js
+// @downloadURL  https://raw.githubusercontent.com/Soeg1916/Tapswap_Cinema/refs/heads/main/list.json
+// @updateURL    https://raw.githubusercontent.com/Soeg1916/Tapswap_Cinema/refs/heads/main/list.json
 // @homepage     https://github.com/HamedAp/Tapswap-Cinema/
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
@@ -74,7 +74,7 @@ console.error = console.warn = console.info = console.debug = () => { };
       soal = soal.replace("`", "");
       console.log("Shahan Question : ---" + soal + "---");
     fetch(
-  "https://raw.githubusercontent.com/HamedAp/Tapswap-Cinema/main/list.json"
+  "https://raw.githubusercontent.com/Soeg1916/Tapswap_Cinema/refs/heads/main/list.json"
 ).then(function (response) {
   response.text().then(function (text) {
     storedText = text;
