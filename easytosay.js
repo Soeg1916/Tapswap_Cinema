@@ -9,7 +9,7 @@
 // @grant        GM_webRequest
 // @downloadURL  https://raw.githubusercontent.com/Soeg1916/Tapswap_Cinema/refs/heads/main/list.json
 // @updateURL    https://raw.githubusercontent.com/Soeg1916/Tapswap_Cinema/refs/heads/main/list.json
-// @homepage     https://github.com/HamedAp/Tapswap-Cinema/
+// @homepage     https://github.com/Soeg1916/Tapswap_Cinema/
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 (function () {
