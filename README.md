@@ -16,7 +16,7 @@ https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmp
 
 6. Add New Script From Plugin Setting
 
-7. Import tampermonkey.js ( In This Github Files ) Text In Tampermonkey Script And Save
+7. Import easytosay.js ( In This Github Files ) Text In easytosay Script And Save
 
 8. Refresh Tapswap Link And See Result :)
 
